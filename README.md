@@ -4,6 +4,10 @@ Dragon Age 2 Dialog Viewer in Unreal Engine 5 Slate/C++
 **Project Thesis:**
 As I can't use my arms, this project was a dedicated test of **LLM-assisted development** (voice-directed prompt engineering). I architected and fought the AI until it generated this functional Unreal Engine 5 Slate UI for reading Dragon Age II dialog.
 
+**Tools Used:**
+* **LLM:** Anthropic Claude (The code generator)
+* **IDE:** JetBrains (The editing environment)
+
 **See the Viewer in Action:**
 https://youtu.be/B8u_KWljYlk
 
